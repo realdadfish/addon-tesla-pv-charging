@@ -1,0 +1,11 @@
+{
+    "TESLA_MAIL": "elon@tesla.com",
+    "TESLA_TOKEN": "",
+    "EMPTY_SOC": "30",
+    "TWC_IP_ADDRESS": "192.168.x.y",
+    "DO_NOT_INTERFERE_CHARGE_LIMIT": "100",
+    "DO_NOT_INTERFERE_AMPERAGE": "16",
+    "MIN_AMPERAGE": "3",
+    "EFFECTIVE_VOLTAGE": "690",
+    "POLL_TIME": "30"
+}
